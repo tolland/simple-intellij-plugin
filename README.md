@@ -122,3 +122,47 @@ Caused by: java.lang.Throwable: JreHiDpiUtil is first initialized here
 <============-> 92% EXECUTING [3m 7s]
 
 ```
+
+diagnostic infos
+
+
+```
+=== About ===
+Build version: IntelliJ IDEA 2025.1.2 Build: #IU-251.26094.121 June 3, 2025
+Theme: Light
+JRE: 21.0.7+9-b895.130, JetBrains s.r.o.
+JVM: 21.0.7+9-b895.130, OpenJDK 64-Bit Server VM, JetBrains s.r.o.
+Operating System: Linux 6.14.9-200.fc41.x86_64 (amd64)
+Toolkit: sun.awt.X11.XToolkit
+idea.config.path=/home/user/.config/JetBrains/IntelliJIdea2025.1
+idea.system.path=/home/user/.cache/JetBrains/IntelliJIdea2025.1
+idea.plugins.path=/home/user/.local/share/JetBrains/IntelliJIdea2025.1
+idea.log.path=/home/user/.cache/JetBrains/IntelliJIdea2025.1/log
+
+=== System ===
+Number of CPU: 8
+Used memory: 2420Mb 
+Free memory: 293Mb 
+Total memory: 2714Mb 
+Maximum available memory: 4096Mb
+
+=== Displays ===
+Display 0: 1920x1080; scale: 100%, bounds: 1920x1080 @ (4480; 0), insets: (0; 0; 0; 0)
+
+=== Plugins ===
+Custom plugins: [PsiViewer (2025.1), Unit File Support (systemd) (242.250611.343), Tab Shifter (0.36), Rainbow Dash Progress Bar (1.5), Open declaration in opposite group (0.1.0), LSP4IJ (0.13.0), Python Community Edition (251.26094.121), Plugin DevKit (251.26094.98), Bloc (4.1.5), Swing UI Designer (251.26094.98), Claude Code [Beta] (0.1.9-beta), IDE Add-on Development Assistant (Beta) (1.1.1), Indent Rainbow (2.2.0), Python (251.26094.121), Gherkin (251.23774.318), Cucumber for Java (251.23774.318), Grep Console (13.2.0-IJ2023.3), CSV Editor (4.0.2), Minecraft Development (2025.1-1.8.5), LivePlugin (0.9.6 beta), Dart (251.25410.28), Big Data Tools Core (251.26094.121), Big Data File Viewer (251.23774.318), Scala (2025.1.25), GitHub Copilot (1.5.46-243)]
+Disabled plugins:[Key Promoter X (2024.2.2), Subversion (251.26094.121), Code With Me (251.26094.121), Perforce Helix Core (251.26094.121), Ansible (1.0.0), Remote File Systems (251.23774.460), Flyway (251.26094.121), Database Navigator (3.5.3.0), Flutter snippet for generator tool (2.232.1), Mercurial (251.26094.121), Lua (1.0.119), Awesome Console (0.1337.12), Clean Architecture (1.0.7), Space (251.23774.318), Ideolog (251.23774.318), Dart Data Class (0.3.3), Code Remark (1.4.0), Flutter Bloc (1.5.0), Flutter Snippets (2.0.0-stable-1), Terraform and HCL (251.23774.426), Flora (beta) (0.5.6), Vineflower (1.2.0), Android (251.26094.121), Gerry Themes (2025.1.0415), Kubernetes (251.26094.121), MidiSwing - Midi Player (0.1.1), .env files (251.23774.318), Flutter (85.3.2)]
+
+=== Project ===
+Project trusted: true
+
+=== Garbage Collection ===
+Collector G1 Young Generation: count 375, total time 7991 ms
+Collector G1 Concurrent GC: count 256, total time 3208 ms
+Collector G1 Old Generation: count 15, total time 5225 ms
+
+=== Scala ===
+
+
+
+```
